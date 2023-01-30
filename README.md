@@ -1,4 +1,4 @@
-This is a fork of https://github.com/tom-doerr/vim_codex designed to work with fauxpilot[https://github.com/fauxpilot/fauxpilot]. It is currently very simple, so for more integrated support, you should probably see https://github.com/fauxpilot/fauxpilot/discussions/72#discussioncomment-4817520. However I will continue to tinker with this repository for fun.
+This is a fork of [vim_codex](https://github.com/tom-doerr/vim_codex) designed to work with [fauxpilot](https://github.com/fauxpilot/fauxpilot). It is currently very simple, so for more integrated support, you should probably see https://github.com/fauxpilot/fauxpilot/discussions/72#discussioncomment-4817520. However I will continue to tinker with this repository for fun.
 
 NOTE: you need to have the openai python library installed, other wise the plugin will not work. Vim also has to be compiled with python support enabled.
 
