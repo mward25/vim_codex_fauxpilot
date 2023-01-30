@@ -15,7 +15,7 @@ ALSO NOTE: I disabled the "co" completion command as it seemed to be interfering
 <p align="center">
     An AI plugin that does the work for you.
 </p>
-
+<!--
 <p align="center">
     <a href="https://github.com/tom-doerr/vim_codex/stargazers"
         ><img
@@ -32,7 +32,7 @@ ALSO NOTE: I disabled the "co" completion command as it seemed to be interfering
             src="https://img.shields.io/github/license/tom-doerr/vim_codex?colorA=2c2837&colorB=b5e8e0&style=for-the-badge&logo=starship style=flat-square"
             alt="License"
     /></a>
-</p>
+</p>-->
 
 <p align="center">
     <img src='https://user-images.githubusercontent.com/31919558/204023837-c753cb9e-88d0-4ad9-bd2f-fdffcc915351.gif'>
