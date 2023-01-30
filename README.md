@@ -5,6 +5,7 @@ NOTE: you need to have the openai python library installed, other wise the plugi
 ALSO NOTE: I disabled the "co" completion command as it seemed to be interfering with another plugin I had. I have these lines in my .vimrc for completion shortcuts for this plugin:
 
 nnoremap  ,C a<Space><Esc>:CreateCompletion<CR>
+
 nnoremap  ,c a<Space><Esc>:CreateCompletionLine<CR>
 
 
