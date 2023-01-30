@@ -1,9 +1,14 @@
-This is a fork of https://github.com/tom-doerr/vim_codex designed to work with fauxpilot. It is currently very simple, so for more integrated support, you should probably see https://github.com/fauxpilot/fauxpilot/discussions/72#discussioncomment-4817520. However I will continue to tinker with this repository for fun.
-
-
-#Information on vim_codex plugin:
+This is a fork of https://github.com/tom-doerr/vim_codex designed to work with fauxpilot[https://github.com/fauxpilot/fauxpilot]. It is currently very simple, so for more integrated support, you should probably see https://github.com/fauxpilot/fauxpilot/discussions/72#discussioncomment-4817520. However I will continue to tinker with this repository for fun.
 
 NOTE: you need to have the openai python library installed, other wise the plugin will not work. Vim also has to be compiled with python support enabled.
+
+ALSO NOTE: I disabled the "co" completion command as it seemed to be interfering with another plugin I had. I have these lines in my .vimrc for completion shortcuts for this plugin:
+    nnoremap  ,C a<Space><Esc>:CreateCompletion<CR>
+    nnoremap  ,c a<Space><Esc>:CreateCompletionLine<CR>
+
+
+
+<h1> Information on vim_codex plugin: </h1>
 
 <h1 align="center">🤖 Vim Codex</h1>
 
